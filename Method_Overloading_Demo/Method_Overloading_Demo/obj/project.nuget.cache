@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\johnd\\Desktop\\Repos\\12_CSharp_Method-Overloading\\Method_Overloading_Demo\\Method_Overloading_Demo\\Method_Overloading_Demo.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\johnd\\Desktop\\Repos\\12_CSharp_Method-Overloading\\Method_Overloading_Demo\\Method_Overloading_Demo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
